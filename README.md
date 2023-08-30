@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+The quick brown fox jumps over the lazy dog.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
